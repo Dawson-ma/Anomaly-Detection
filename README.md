@@ -1,6 +1,6 @@
 # Anomaly Detection
 
-This project aims to apply unsupervised anomaly detection in computer vision to identify whether a testing image belongs to the same distribution as the training images. The model achieved a notable ROC_AUC score of **82.74%**.
+Applying unsupervised anomaly detection in computer vision to identify whether a testing image belongs to the same distribution as the training images. The model achieved a notable ROC_AUC score of **82.74%**.
 
 ## Task
 Determining whether testing images share the same distribution as the training images.
